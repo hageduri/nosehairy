@@ -4,8 +4,13 @@ body{
 			color: #1E88E5;
 		}
 		h1{
+			background-color: #ABEBC6 ;	
 			color: #7E5109; 
 			text-align: center;
+			border-color: #003333;
+			padding: 3px;
+			border-width: 2px;
+			border-style: dashed;
 			}
 table{
 	background-color: #C0C0C0;
