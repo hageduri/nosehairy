@@ -13,6 +13,7 @@ body{
 			border-style: dashed;
 			}
 table{
+	align-self: center;
 	background-color: #C0C0C0;
 }
 p{
