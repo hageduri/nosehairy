@@ -1,17 +1,19 @@
 body{
-			font-family: Showcard Gothic;
+ 			background-image: url("image/home1.jpg");
+ 			background-size: 100% 100%;
+ 			font-family: Showcard Gothic;
 			font-size: 18;
 			color: #1E88E5;
 		}
-		h1{
-			background-color: #ABEBC6 ;	
-			color: #7E5109; 
-			text-align: center;
-			border-color: #003333;
-			padding: 3px;
-			border-width: 2px;
-			border-style: dashed;
-			}
+h1{
+	background-color: #ABEBC6 ;	
+	color: #7E5109; 
+	text-align: center;
+	border-color: #003333;
+	padding: 3px;
+	border-width: 2px;
+	border-style: dashed;
+}
 table{
 	align-self: center;
 	background-color: #C0C0C0;
