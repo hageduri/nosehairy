@@ -1,12 +1,19 @@
 body{
- 			background-image: url("C:\Users\p\Documents\GitHub\nosehairy.github.io\image\home1.jpg");
- 			background-size: 100% 100%;
- 			font-family: Showcard Gothic;
+ 			
+ 				font-family: Showcard Gothic;
+ 			
 			font-size: 18;
 			color: #1E88E5;
 		}
+.bgimg{
+	
+
+     background-image: url(../image/home2.jpg);
+      background-size: 80% 100%;
+}
 h1{
-	background-color: #ABEBC6 ;	
+	
+	background-color: #ABEBC6 ;
 	color: #7E5109; 
 	text-align: center;
 	border-color: #003333;
@@ -14,10 +21,8 @@ h1{
 	border-width: 2px;
 	border-style: dashed;
 }
-table{
-	align-self: center;
-	background-color: #C0C0C0;
-}
+
 p{
-	text-align: center;
+
+		text-align: center;
 }
