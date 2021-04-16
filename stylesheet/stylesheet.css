@@ -8,13 +8,10 @@ body{
 .bgimg{
 	
 
-     background-image: url(../image/home2.jpg);
+     background-image: url(../image/home1.jpg);
       background-size: 80% 100%;
 }
-.bgimg2{
-	
-background-image: url(../image/home1.jpg);
-}
+
 h1{
 	
 	background-color: #ABEBC6 ;
