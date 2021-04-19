@@ -7,6 +7,8 @@ body, html {
   height: 100%;
   margin: 0;
 }
+	
+</style>
 </head>
 <body>
 <div class="bg-img">
