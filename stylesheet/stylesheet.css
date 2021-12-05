@@ -1,15 +1,13 @@
 body{
- 			
- 				font-family: Showcard Gothic;
- 			font-style: bold;
-			font-size: 28;
-			color: #DC143C;
-		}
+	font-family: Showcard Gothic;
+	font-style: bold;
+	font-size: 28;
+	color: #DC143C;
+	display: auto;
+}
 .bgimg{
-	
-
-     background-image: url(../image/DEXm1zQXkAAB9gH.jpg);
-      background-size: 80% 100%;
+	background-image: url(../image/DEXm1zQXkAAB9gH.jpg);
+    background-size: 80% 100%;
 }
 
 h1{
@@ -24,6 +22,18 @@ h1{
 }
 
 p{
-
-		text-align: center;
+	text-align: center;
 }
+
+button {
+	position: fixed;
+	width: 5rem;
+	height: 2rem;
+	bottom: 20px;
+	border: 3px solid #8AC007;
+	background: grey;
+}
+button a {
+	text-decoration: none;
+}
+
